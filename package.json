@@ -1,7 +1,7 @@
 {
   "name": "@halkeye/hubot-pugme-reddit",
   "description": "Pugme is the most important hubot script (reddit version)",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": "Gavin Mogan <npm@gavinmogan.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, pugs",
