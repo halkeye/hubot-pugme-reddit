@@ -12,6 +12,11 @@
   "bugs": {
     "url": "https://github.com/halkeye/hubot-pugme-reddit/issues"
   },
+  "files": [
+    "README.md",
+    "index.js",
+    "src"
+  ],
   "peerDependencies": {},
   "devDependencies": {
     "hubot": "3.3.2",
