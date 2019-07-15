@@ -2,7 +2,7 @@
 
 Pugme is the most important hubot script
 
-See [`src/pugme.coffee`](src/pugme.coffee) for full documentation.
+See [`src/pugme.js`](src/pugme.js) for full documentation.
 
 Forked from https://github.com/hubot-scripts/hubot-pugme which relies on a heroku app. This version pulls pugs from [reddit](https://www.reddit.com/r/pugs).
 
@@ -10,13 +10,13 @@ Forked from https://github.com/hubot-scripts/hubot-pugme which relies on a herok
 
 In hubot project repo, run:
 
-`npm install git+https://github.com/anupdhml/hubot-pugme-reddit --save`
+`npm install @halkeye/hubot-pugme-reddit --save`
 
-Then add **hubot-pugme-reddit** to your `external-scripts.json`:
+Then add **@halkeye/hubot-pugme-reddit** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-pugme-reddit"
+  "@halkeye/hubot-pugme-reddit"
 ]
 ```
 
